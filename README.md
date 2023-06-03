@@ -14,10 +14,10 @@ After asking on Slacks and [Fediverse](https://infosec.exchange/@pburkholder/110
 
 ## Resources
 
-https://hackernoon.com/the-trouble-with-fips - (I need to read and annotate)
+https://hackernoon.com/the-trouble-with-fips - (Still needs a full annotation)
 > [T]hey had to make a version of their software that was FIPS-compliant in which they turned off everything that was novel and interesting about their product. They used shared keys or left things unencrypted to meet the standards. and it turns out you can have unencrypted data that is FIPS compliant while encrypting it runs afoul of the standard.
 
-https://crypto.stackexchange.com/questions/96235/why-is-fips-140-2-compliance-controversial - thread started November 2021 - lots of  references, some may be useful.
+https://crypto.stackexchange.com/questions/96235/why-is-fips-140-2-compliance-controversial - (thread started November 2021 - lots of  references, some may be useful.)
 
 https://blogs.oracle.com/solaris/post/is-fips-140-2-actively-harmful-to-software - 2014 blog post (referenced on FIPS 140 wikipedia page)
 
