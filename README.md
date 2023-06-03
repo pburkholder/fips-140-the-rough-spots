@@ -1,4 +1,4 @@
-# Welcome to FIPS-140 is not awesome
+# Welcome to FIPS 140: the non-awesome parts
 
 Caveats
 
