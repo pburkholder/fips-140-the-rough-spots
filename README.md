@@ -2,10 +2,10 @@
 
 Caveats
 
-* These resources and opinions are wholly those of the author/contributor, and do not represent those any other entity
-* Encryption absolutely _does_ matter, but the FIPS 140-3 notion of encryption does not overlay with real-world uses of encryption and the needs of secure, scalable systems.
+* These resources and opinions are wholly those of the author/contributor, and do not represent those of any other entity
+* Encryption absolutely _does_ matter, but the FIPS 140-3/140-3 notion of encryption does not overlay with real-world uses of encryption and the needs of secure, scalable systems.
 * FIPS 140 absolutely was awesome in 1994, but its awesomeness 30 years later is, well, debateable.
-* The good people at NIST are doing the best they came with the budget and regulatory framework they have -- nothing here should cast any doubt on their dedication and professionalism.
+* The good people at NIST are doing the best they can with the budget and regulatory framework they have -- nothing here should cast any doubt on their dedication and professionalism.
 
 ## Resources
 
