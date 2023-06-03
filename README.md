@@ -1,11 +1,16 @@
 # Welcome to FIPS 140: the non-awesome parts
 
-Caveats
+
+### Caveats
 
 * These resources and opinions are wholly those of the author/contributor, and do not represent those of any other entity
 * Encryption absolutely _does_ matter, but the FIPS 140-3/140-3 notion of encryption does not overlay with real-world uses of encryption and the needs of secure, scalable systems.
 * FIPS 140 absolutely was awesome in 1994, but its awesomeness 30 years later is, well, debateable.
 * The good people at NIST are doing the best they can with the budget and regulatory framework they have -- nothing here should cast any doubt on their dedication and professionalism.
+
+## History
+
+After asking on Slacks and [Fediverse](https://infosec.exchange/@pburkholder/110482715387961603) if there was a compendium of the issues with FIPS 140, and not finding any, I've started this.
 
 ## Resources
 
