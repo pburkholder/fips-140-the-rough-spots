@@ -53,6 +53,12 @@ From Rands Leadership:
 GoLang and loss of memory safety when using OpenSSL (not sure about BoringSSL)
 > Brindle: yea, so with a pure Go crypto implementation you get Go's memory safety guarantees but once you swap that out for an openssl C module the memory safety is lost while inside openssl code, and we all know how secure openssl has proven itself to be :sarcasm:
 
+
+From D...P:
+
+> My favorite is https://crocs.fi.muni.cz/_media/public/papers/nemec_roca_ccs17_preprint.pdf .
+The library in question is found in NIST FIPS 140-2 and CC EAL 5+ certified devices used for a wide range of real-world applications, including identity cards, passports, Trusted Platform Modules, PGP and tokens for authentication or software signing.
+
 ## FIPS explainers, clarifiers
 
 https://www.safelogic.com/blog/inside-fips-inside - Walt Paley seems to have some good advice to offer.
