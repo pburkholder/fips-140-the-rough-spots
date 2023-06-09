@@ -34,7 +34,7 @@ yubico's fips debacle was fun. iirc, they forgot to clear out their test vectors
 
 ## Some quotes
 
-"ReaperHulk":
+From ReaperHulk elsewhere..
 > I've been meaning to write this for a while. A non-exhaustive list in no particular order with some ranting interspersed:
 > FIPS incorporates newer algorithms very slowly. FIPS 186-5 (EdDSA) took nearly 4 years to be accepted and since its acceptance ~4-6 months ago no lab has figured out how to evaluate it, so it effectively still cannot be used
 > Lab evaluations are glacial. Think months to contract, months to evaluate, and up to a year until the certificate is issued. This results in many conversations where you end up agreeing that presence on MIP (module in process) is sufficient.
