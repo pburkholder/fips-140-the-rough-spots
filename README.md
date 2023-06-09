@@ -23,6 +23,8 @@ https://blogs.oracle.com/solaris/post/is-fips-140-2-actively-harmful-to-software
 
 https://twitter.com/colmmacc/status/1505927029371199490 - Colm MacCárthaigh thread on FIPS. 
 
+https://twitter.com/pburkholder/status/1438537031970402313 - Looks like I've tried this before
+
 
 ### YubiCo
 
